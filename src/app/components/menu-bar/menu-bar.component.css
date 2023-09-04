@@ -1,7 +1,7 @@
 .container__menu-bar{
     margin-top: 15px;
+    font-size: 30px;
 }
-
 
 .container__menu-bar > ul{
     display: flex;
