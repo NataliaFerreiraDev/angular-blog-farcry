@@ -1,12 +1,18 @@
-@media screen and (max-width:1150px){
+@media screen and (max-width:1200px){
     .container__menu-title > h1{
         font-size: 100px;
     }
 }
 
+@media screen and (max-width:1150px){
+    .container__menu-title > h1{
+        font-size: 90px;
+    }
+}
+
 @media screen and (max-width:900px){
     .container__menu-title > h1{
-        font-size: 70px;
+        font-size: 80px;
     }
 }
 
@@ -17,7 +23,7 @@
     }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:600px){
     .container__menu-title > h1{
         font-size: 50px;
     }
@@ -25,6 +31,6 @@
 
 @media screen and (max-width:400px){
     .container__menu-title > h1{
-        font-size: 30px;
+        font-size: 40px;
     }
 }

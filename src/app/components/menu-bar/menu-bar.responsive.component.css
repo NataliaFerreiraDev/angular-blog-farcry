@@ -1,14 +1,4 @@
-@media screen and (max-width:1150px){
-    .container__menu-bar{
-        font-size: 25px;
-    }
-
-    .container__menu-bar > ul > li{
-        margin-right: 25px;
-    }
-}
-
-@media screen and (max-width:900px){
+@media screen and (max-width:1250px){
     .container__menu-bar{
         font-size: 20px;
     }
@@ -18,8 +8,29 @@
     }
 }
 
+@media screen and (max-width:1150px){
+    .container__menu-bar{
+        font-size: 15px;
+    }
 
-@media screen and (max-width:700px){
+    .container__menu-bar > ul > li{
+        margin-right: 20px;
+    }
+}
+
+
+@media screen and (max-width:900px){
+    .container__menu-bar{
+        font-size: 15px;
+    }
+
+    .container__menu-bar > ul > li{
+        margin-right: 10px;
+    }
+}
+
+
+@media screen and (max-width:800px){
     .container__menu-bar{
         font-size: 15px;
     }
@@ -29,7 +40,7 @@
     }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:600px){
     .container__menu-bar{
         font-size: 10px;
     }
