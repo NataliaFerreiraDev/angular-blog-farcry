@@ -22,6 +22,7 @@
 
 .big-card__description{
     padding: 10px;
+    text-align: justify;
 }
 
 .big-card__description > p > a{
